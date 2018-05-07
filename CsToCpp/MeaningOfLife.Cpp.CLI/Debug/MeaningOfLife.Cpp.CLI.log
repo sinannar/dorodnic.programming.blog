@@ -1,0 +1,5 @@
+﻿  Logic.cpp
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Logic.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+     Creating library D:\source\dorodnic.programming.blog\CsToCpp\Debug\MeaningOfLife.Cpp.CLI.lib and object D:\source\dorodnic.programming.blog\CsToCpp\Debug\MeaningOfLife.Cpp.CLI.exp
+  MeaningOfLife.Cpp.CLI.vcxproj -> D:\source\dorodnic.programming.blog\CsToCpp\Debug\MeaningOfLife.Cpp.CLI.dll
